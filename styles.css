@@ -133,10 +133,10 @@ nav a:hover::after {
 
 /* Hero Section */
 .hero {
-    min-height: 100vh;
+    min-height: 85vh;
     display: flex;
-    align-items: center;
-    padding-top: 80px;
+    align-items: flex-start;
+    padding-top: 140px;
     position: relative;
 }
 
